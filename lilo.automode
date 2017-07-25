@@ -80,7 +80,7 @@
   #12) i3
   #13) OpenBox
   #14) Xmonad
-  DESKTOPENV=4
+  DESKTOPENV=10
   #KDE {{{
     # 1) Choqok
     # 2) Digikam
@@ -103,7 +103,7 @@
     #11) Xcompmgr
     #12) Zathura
     #13) speedtest-cli
-    MISCAPPS="1 3"
+    MISCAPPS="1-3"
   #}}}
   #DISPLAY MANAGER {{{
     # 1) Elsa
@@ -164,7 +164,7 @@
   #13) OracleJDK
   #14) NodeJS
   #15) Microsoft Visual Studio Code
-  DEVELOPMENT_OPTIONS="13"
+  DEVELOPMENT_OPTIONS="1 6 13 14"
 #}}}
 #OFFICE {{{
   # 1) Abiword+Gnumeric|Calligra
